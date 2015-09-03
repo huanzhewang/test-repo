@@ -6,6 +6,6 @@
 
 * [StackOverflow][www.stackoverflow.com]
 
-*[R-Project][https://www.r-project.org/]
+* [R-Project][https://www.r-project.org/]
 
 we all add "other" helpful files **later**
